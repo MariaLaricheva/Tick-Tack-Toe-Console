@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tick-Tack-Toe-Console:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tick_Tack_Toe_Console_jar</output-path>
+    <root id="archive" name="Tick-Tack-Toe-Console.jar">
+      <element id="module-output" name="Tick-Tack-Toe-Console" />
+    </root>
+  </artifact>
+</component>
